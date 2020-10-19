@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AliMissingOverrideAnnotation" enabled="true" level="BLOCKER" enabled_by_default="true">
+      <scope name="Project Files" level="BLOCKER" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="BLOCKER" enabled_by_default="true">
+      <scope name="Project Files" level="BLOCKER" enabled="true">
+        <option name="ignoreObjectMethods" value="true" />
+        <option name="ignoreAnonymousClassMethods" value="false" />
+      </scope>
+      <option name="ignoreObjectMethods" value="true" />
+      <option name="ignoreAnonymousClassMethods" value="false" />
+    </inspection_tool>
+  </profile>
+</component>
